@@ -1,0 +1,19 @@
+treatment,time point,stage ,count
+Ambient ,1,Early-metamorphosed,8
+Ambient ,1,Advanced-metamorphosed,2
+Ambient ,1,Fully-metamorphosed,20
+RCP 4.5,1,Early-metamorphosed,16
+RCP 4.5,1,Advanced-metamorphosed,3
+RCP 4.5,1,Fully-metamorphosed,11
+RCP 8.5,1,Early-metamorphosed,10
+RCP 8.5,1,Advanced-metamorphosed,14
+RCP 8.5,1,Fully-metamorphosed,6
+Ambient ,2,Early-metamorphosed,2
+Ambient ,2,Advanced-metamorphosed,1
+Ambient ,2,Fully-metamorphosed,27
+RCP 4.5,2,Early-metamorphosed,12
+RCP 4.5,2,Advanced-metamorphosed,10
+RCP 4.5,2,Fully-metamorphosed,8
+RCP 8.5,2,Early-metamorphosed,16
+RCP 8.5,2,Advanced-metamorphosed,5
+RCP 8.5,2,Fully-metamorphosed,9
